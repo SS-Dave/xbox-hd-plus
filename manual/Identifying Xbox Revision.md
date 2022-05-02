@@ -14,7 +14,7 @@ Following the reference image below you can quickly and easily identify your Xb
 - If the power connector is a dual row then the encoder will need to be checked.
 
 ### Encoder
-- If the encoder is a Conexant or Focus then the system is a **1.2 - 1.5** revision (dual row power connector).
+- If the encoder is a Conexant or Focus then the system is a **1.2 - 1.4** revision (dual row power connector).
 - If the encoder is marked Xcalibur then the system is a **1.6** revision.
 
 
